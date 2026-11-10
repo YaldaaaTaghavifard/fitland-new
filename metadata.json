@@ -1,0 +1,8 @@
+{
+  "name": "Fitland",
+  "description": "Comprehensive fitness management and member portal platform with workout plans, nutrition tracking, body measurements, trainer workspace, and gym operations.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
