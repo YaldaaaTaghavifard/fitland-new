@@ -3,7 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/fitland-new/', 
   plugins: [react()],
   server: {
     host: '0.0.0.0',
